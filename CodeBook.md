@@ -16,6 +16,8 @@ Finally a Fast Fourier Transform (FFT) was applied to some of these signals prod
 
 Download the data file: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip. There is a directory "UCI HAR Dataset" which contains all the necessary files and directories. You should put this directory inside your working directory in R-studio and then run the run_analysis.R script. This will create a data frame named "finaldata", which the tidy data we want to produce. 
 
+# See README.md file
+
 The main Identifiers are:
 1. Subject - ID of the test
 2. Activity - Type of activity
